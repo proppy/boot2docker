@@ -1,3 +1,4 @@
+#!/bin/sh
 set -ex
 PROJECT_ID=${PROJECT_ID:-fleet-parsec-418}
 BUCKET=${BUCKET:-${PROJECT_ID}}
